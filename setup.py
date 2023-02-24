@@ -117,6 +117,6 @@ setup(
     include_package_data=True,
     packages=['VBBinaryLensing.data'],
     package_data={'VBBinaryLensing.data': ['data/*',]},
-               
-    
+
+
 )
